@@ -53,23 +53,6 @@ I'm an AI Software Developer at Intel working on the **OpenVINO** toolkit, speci
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rairatne&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rairatne&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rairatne&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rairatne&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📫 Contact
 
 - 💼 **LinkedIn:** [ratnesh-kumar-rai-2a4004139](https://linkedin.com/in/ratnesh-kumar-rai-2a4004139)

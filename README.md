@@ -3,7 +3,7 @@
 > NPU-accelerated AI • Edge & Android inference • GenAI enablement & optimization
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ratnesh-kumar-rai-2a4004139)
-[![Email Intel](https://img.shields.io/badge/Intel-ratnesh.kumar.rai@intel.com-0071C5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratnesh.kumar.rai@intel.com)
+[![Email Intel](https://img.shields.io/badge/Intel-ratnesh.kumar.rai@intel.com-0071C5?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:ratnesh.kumar.rai@intel.com)
 [![Email Personal](https://img.shields.io/badge/Personal-ratn.dav2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratn.dav2@gmail.com)
 
 ---
